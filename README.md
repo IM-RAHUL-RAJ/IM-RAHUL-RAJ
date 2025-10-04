@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<img src="YOUR_PHOTO_URL_HERE" alt="Rahul Raj" width="200" style="border-radius: 50%; border: 3px solid #58a6ff;"/>
+<img src="https://drive.google.com/file/d/1ackEimybmWqM4rFPTtAt6o_vtgT25skn/view?usp=sharing" alt="Rahul Raj" width="200" style="border-radius: 50%; border: 3px solid #58a6ff;"/>
 
 ### 💼 Software Engineer @ Fidelity Investments
 
