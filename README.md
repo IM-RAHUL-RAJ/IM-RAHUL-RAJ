@@ -6,11 +6,12 @@
 
 ### 💼 Software Engineer @ Fidelity Investments
 
-### 🏆 FMR Excellence Award Winner 2024
+### 🏆 FMR Excellence Award Winner 2024 & 2025
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulraj75)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IM-RAHUL-RAJ)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahuldps3313@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-2026-iota-amber.vercel.app)
 
 </div>
 
@@ -114,6 +115,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 - 📧 Email: rahuldps3313@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/rahulraj75](https://linkedin.com/in/rahulraj75)
 - 🐙 GitHub: [@IM-RAHUL-RAJ](https://github.com/IM-RAHUL-RAJ)
+- 🌐 Website: [Portfolio](https://portfolio-2026-iota-amber.vercel.app)
 
 ---
 
